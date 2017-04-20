@@ -1,0 +1,17 @@
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\bin\Debug\Clashfreetimetablespring17.exe.config
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\bin\Debug\Clashfreetimetablespring17.exe
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\bin\Debug\Clashfreetimetablespring17.pdb
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\App.g.cs
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17_MarkupCompile.cache
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17_MarkupCompile.lref
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\MainWindow.baml
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17.g.resources
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17.Properties.Resources.resources
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17.csproj.GenerateResource.Cache
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17.exe
+C:\Users\Ahmad khan\Desktop\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17.pdb
+C:\Users\Ahmad khan\Desktop\testing\Clashfreetimetablespring17\Clashfreetimetablespring17\bin\Debug\Clashfreetimetablespring17.exe.config
+C:\Users\Ahmad khan\Desktop\testing\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17.exe
+C:\Users\Ahmad khan\Desktop\testing\Clashfreetimetablespring17\Clashfreetimetablespring17\obj\Debug\Clashfreetimetablespring17.pdb
